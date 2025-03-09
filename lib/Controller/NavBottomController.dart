@@ -10,6 +10,6 @@ class BottomNavController extends GetxController
   var pages = [
     const Homepage(),
     const ArticlePage(),
-    const ProfilePage(),
+    const UserProfilePage(),
   ];
 }
