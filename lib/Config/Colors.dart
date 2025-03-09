@@ -19,7 +19,6 @@ import 'dart:ui';
 // const paymentModeColor = Color(0xff8583FF);
 // const paymentRegionColor = Color(0xff8583FF);
 
-
 const dBackgroundColor = Color(0xff191B28);
 const dPrimaryColor = Color(0xff2ecc71 );
 const dContainerColor = Color(0xff34374B);
